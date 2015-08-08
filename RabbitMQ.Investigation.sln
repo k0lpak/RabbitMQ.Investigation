@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Producer", "Producer\Producer.csproj", "{7EE52CDD-28CF-4D85-9EDC-778898CBC05F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Producer", "ProducerConsumer\Producer\Producer.csproj", "{7EE52CDD-28CF-4D85-9EDC-778898CBC05F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProducerConsumer", "ProducerConsumer", "{43DCEFA9-2C25-4F79-8615-440EF6F4066A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "Consumer\Consumer.csproj", "{60BBCB1D-ECFB-45DB-98AD-15A137E48650}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "ProducerConsumer\Consumer\Consumer.csproj", "{60BBCB1D-ECFB-45DB-98AD-15A137E48650}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WorkQueue", "WorkQueue", "{5B65B8BB-CF1E-4D86-BFDC-1B5C295188C6}"
 EndProject
